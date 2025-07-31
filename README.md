@@ -1,3 +1,3 @@
-[![getting-started](https://github.com/madisonewebb/DOB-test-automation/actions/workflows/getting-started.yml/badge.svg?branch=main)](https://github.com/madisonewebb/DOB-test-automation/actions/workflows/getting-started.yml)
+[![getting-started](https://github.com/madisonewebb/DOB-test-automation/actions/workflows/getting-started.yml/badge.svg)](https://github.com/madisonewebb/DOB-test-automation/actions/workflows/getting-started.yml)
 
 [![Setup Golang and Run Unit Tests](https://github.com/madisonewebb/DOB-test-automation/actions/workflows/actions.yml/badge.svg)](https://github.com/madisonewebb/DOB-test-automation/actions/workflows/actions.yml)
